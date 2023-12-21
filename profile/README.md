@@ -2,10 +2,12 @@
 ### Cultivating Prosperity for Indonesian Farmers
 
 ## Project Description
-TBD
+<p align="justify"> Indonesia, despite having a rich agricultural history, is facing significant challenges in its agricultural sector. The sector's income disparities, especially in urban areas, threaten the country's agrarian identity, despite having a significant number of farmers. The backbone of the country, farmers, face various economic difficulties, including unfair pricing and unfavourable public perception. To tackle this issue, we suggest implementing the TaniLink platform, which incorporates technology to offer direct connections between buyers and sellers, as well as pricing information. By modernizing the conventional farming system, this initiative aims to improve the welfare of the farming community and ensure fair product pricing.</p>
 
 ## Project Tech Stack
-TBD
+<b>Machine Learning:</b> TensorFlow, NumPy, Pandas, Google Colab, Git and GitHub, FastAPI</br>
+<b>Cloud Computing:</b> Visual Studio, Postman, gRPC, SignalR, .NET Core 8, Entity Framework, Identity Framework, ML.NET, Microsoft SQL Server, Compute Engine, Cloud Storage (Firebase)</br>
+<b>Mobile Development:</b> Android Studio, Emulator Android, Postman, Glide, Retrofit, Room, Vico extensible Chart, Material Design 3, gRPC client, Firebase client, Hawk Session Manager</br>
 
 ## Project Teams
 TBD
