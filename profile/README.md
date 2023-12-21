@@ -1,5 +1,6 @@
 # TaniLink
 ### Cultivating Prosperity for Indonesian Farmers
+<img src="./assets/tanilink.png">
 
 ## Project Description
 <p align="justify"> Indonesia, despite having a rich agricultural history, is facing significant challenges in its agricultural sector. The sector's income disparities, especially in urban areas, threaten the country's agrarian identity, despite having a significant number of farmers. The backbone of the country, farmers, face various economic difficulties, including unfair pricing and unfavourable public perception. To tackle this issue, we suggest implementing the TaniLink platform, which incorporates technology to offer direct connections between buyers and sellers, as well as pricing information. By modernizing the conventional farming system, this initiative aims to improve the welfare of the farming community and ensure fair product pricing.</p>
@@ -10,13 +11,24 @@
 <b>Mobile Development:</b> Android Studio, Emulator Android, Postman, Glide, Retrofit, Room, Vico extensible Chart, Material Design 3, gRPC client, Firebase client, Hawk Session Manager</br>
 
 ## Project Teams
-TBD
+<img src="./assets/our-team.jpg">
 
 ## Project Preview
-TBD
+<img src="./assets/preview1.jpg" width="200" height="400">
+<img src="./assets/preview2.jpg" width="200" height="400">
+<img src="./assets/preview3.jpg" width="200" height="400">
+<img src="./assets/preview4.jpg" width="200" height="400">
+
 
 ## Accessible Project App
-TBD
+<b>Machine Learning:</b> <a href="https://tanilink-ml.bantuin.me/docs">Machine Learning API</a></br>
+<b>Cloud Computing:</b> <a href="https://tanilink.bantuin.me/">Cloud Computing API</a></br>
+<b>Mobile Development:</b> TBD </br>
+
+## Documentation Project App
+<b>Machine Learning:</b> <a href="https://github.com/Topi-Batu/TaniLink-ML-Model">Machine Learning Documentation</a></br>
+<b>Cloud Computing:</b> <a href="https://github.com/Topi-Batu/TaniLink_Backend">Cloud Computing Documentation</a></br>
+<b>Mobile Development:</b> TBD </br>
 
 <!--
 
