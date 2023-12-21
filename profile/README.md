@@ -23,12 +23,12 @@
 ## Accessible Project App
 <b>Machine Learning:</b> <a href="https://tanilink-ml.bantuin.me/docs">Machine Learning API</a></br>
 <b>Cloud Computing:</b> <a href="https://tanilink.bantuin.me/">Cloud Computing API</a></br>
-<b>Mobile Development:</b> TBD </br>
+<b>Mobile Development:</b> <a href="https://github.com/Topi-Batu/tanilink-mobile/releases">Mobile Development App</a></br>
 
 ## Documentation Project App
 <b>Machine Learning:</b> <a href="https://github.com/Topi-Batu/TaniLink-ML-Model">Machine Learning Documentation</a></br>
 <b>Cloud Computing:</b> <a href="https://github.com/Topi-Batu/TaniLink_Backend">Cloud Computing Documentation</a></br>
-<b>Mobile Development:</b> TBD </br>
+<b>Mobile Development:</b> <a href="https://github.com/Topi-Batu/tanilink-mobile">Mobile Development Documentation</a></br>
 
 <!--
 
